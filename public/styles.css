@@ -5,3 +5,24 @@ body {
     padding-top: 50px;
   }
   
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #0078D7;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #005A9E;
+  }
+  
+  #resultado {
+    margin-top: 20px;
+    font-size: 20px;
+    color: green;
+  }
+  
